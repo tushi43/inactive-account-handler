@@ -1,0 +1,21 @@
+body{
+color: white;
+}
+.profile{
+border-left : 5px solid white;
+padding-left:5px;
+text-align: left;
+font-family: Roboto;
+}
+.upload{
+	border: 1px solid white;
+	padding: 15px;
+}
+footer{
+	margin-bottom: 0px;
+	text-align: center;
+}
+legend
+{
+	color: white;
+}

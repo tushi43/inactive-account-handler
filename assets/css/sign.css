@@ -1,0 +1,27 @@
+
+form{
+display: block;
+position relative;
+margin:50px;
+border: 2px solid black;
+font-size:15px;
+font-family:Sans-serif;
+padding: 40px;
+margin:0px;
+text-align:center-left;
+}
+h3{
+font-size:15px;
+text-align:center;
+color:Green;
+margin: 5px;
+padding: 2.5px;	
+}
+h1{
+font-size:30px;
+text-align:center;
+color:Green;
+margin: 5px;
+padding: 2.5px;
+}
+
